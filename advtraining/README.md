@@ -34,7 +34,7 @@ python main.py <model_name> <attack_name> <dataset_name>
 ### Example
 
 ```bash
-python script.py cnn fgsm mexico_consumption
+python script.py cnn fgsm sample_consumption
 ```
 
 ---
