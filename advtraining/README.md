@@ -16,7 +16,7 @@ This code is supplementary material for the following paper:
 Install dependencies:
 
 ```bash
-pip install tensorflow==2.12 pandas numpy
+pip install tensorflow==2.12 pandas==2.0.3 numpy==1.23.5
 ````
 
 ---
